@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet');
+p{
+    font-size: 20px;
+    color: rgba(193, 63,175,1);
+    font-style: italic;
+    font-weight: 900;
+    font-family: 'Indie Flower', cursive;
+}
+
+div{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+p{
+    color: darkviolet;
+    
+    
+}
+
+li{border-style: solid;
+color: yellow}
+span{
+    border-style: dotted;
+    color: darkcyan;
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+}
+
+#green{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    padding: 5px;   
+    background-color: green; 
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+}
+#blue{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    padding: 5px;   
+    background-color: blue; 
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+}
+#red{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    padding: 5px;   
+    background-color: red; 
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+}
+#purple{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    padding: 5px;   
+    background-color: purple; 
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+}
+#orange{
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    padding: 5px;   
+    background-color: orange; 
+    border: 3px solid yellow;
+    padding: 20px;
+    margin: 20px;
+};
